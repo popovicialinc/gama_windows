@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/popovicialinc/gama/refs/heads/main/Repository%20Stuff/video/gama_title_video.gif" width="100%" alt="GAMA Ultra 4K Banner">
+  <img src="https://raw.githubusercontent.com/popovicialinc/gama_windows/main/!assets/gama_title_video.gif" width="100%" alt="GAMA Ultra 4K Banner">
 </p>
 
 <br>
@@ -39,7 +39,7 @@ While optimized for the Samsung Galaxy S23 lineup, this project is compatible wi
 
 # **Get started on your platform**
 
-* 🤖 [**Android**]([https://github.com/popovicialinc/gama/blob/main/README.md#gama-for-android](https://github.com/popovicialinc/gama/blob/main/README.md#gama-on-android))
+* 🤖 [**Android**](https://github.com/popovicialinc/gama?tab=readme-ov-file#gama-on-android)
 * 🖥️ [**Windows**](https://github.com/popovicialinc/gama/blob/main/README.md#gama-for-windows-batch)
 * 🐧 [**Linux**](https://github.com/Ameen-Sha-Cheerangan/s23-vulkan-support) (adapted by Ameen Sha Cheerangan)
 
@@ -74,24 +74,24 @@ While optimized for the Samsung Galaxy S23 lineup, this project is compatible wi
 
 ## **Photos**
 <div>
-  <table border=0>
+  <table border="0">
     <tr>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/popovicialinc/gama/refs/heads/main/Repository%20Stuff/gama_main_menu.png" width="399"><br>
+        <img src="https://raw.githubusercontent.com/popovicialinc/gama_windows/main/!assets/gama_main_menu.png" width="399"><br>
         <sub>Main Menu</sub>
       </td>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/popovicialinc/gama/refs/heads/main/Repository%20Stuff/gama_settings_renderer_vulkan.png" width="350"><br>
+        <img src="https://raw.githubusercontent.com/popovicialinc/gama_windows/main/!assets/gama_settings_renderer_vulkan.png" width="350"><br>
         <sub>Choosing Aggressiveness Profile</sub>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/popovicialinc/gama/refs/heads/main/Repository%20Stuff/error.png" width="350"><br>
+        <img src="https://raw.githubusercontent.com/popovicialinc/gama_windows/main/!assets/error.png" width="350"><br>
         <sub>Error State</sub>
       </td>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/popovicialinc/gama/refs/heads/main/Repository%20Stuff/success.png" width="350"><br>
+        <img src="https://raw.githubusercontent.com/popovicialinc/gama_windows/main/!assets/success.png" width="350"><br>
         <sub>Success Message</sub>
       </td>
     </tr>
